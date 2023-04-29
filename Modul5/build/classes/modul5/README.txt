@@ -54,4 +54,3 @@ yang harus dipenuhi. Perbedaan utama antara while dan do-while adalah while akan
 iterasi. Di dalam while loop, kode yang akan diulang akan terus diulang selama kondisi terpenuhi. Jika kondisi tidak terpenuhi pada awal iterasi, maka program tidak akan 
 memasuki while loop. Di dalam do-while loop, kode yang akan diulang akan dieksekusi terlebih dahulu, kemudian kondisi akan diperiksa setelah itu. Jika kondisi terpenuhi, 
 maka program akan masuk ke dalam do-while loop lagi, dan begitu seterusnya. Jika kondisi tidak terpenuhi pada akhir iterasi, maka program akan keluar dari do-while loop.
-
